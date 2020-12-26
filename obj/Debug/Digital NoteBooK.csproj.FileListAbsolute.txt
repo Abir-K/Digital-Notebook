@@ -1,0 +1,23 @@
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.csprojAssemblyReference.cache
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Presentation_Layer.EventsCreatorUI.resources
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Presentation_Layer.UsersLoginUI.resources
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Properties.Resources.resources
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.csproj.GenerateResource.cache
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.csproj.CoreCompileInputs.cache
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\Digital NoteBooK.exe.config
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\Digital NoteBooK.exe
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\Digital NoteBooK.pdb
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.Permissions.dll
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.Permissions.xml
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Presentation_Layer.UserEventsUI.resources
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.csproj.CopyComplete
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.exe
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital NoteBooK.pdb
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Presentation_Layer.EventsModifierUI.resources
+C:\Users\ABiR BeAtZ\Desktop\Digital NoteBooK\obj\Debug\Digital_NoteBooK.Presentation_Layer.UserRegistrationUI.resources
